@@ -1,0 +1,6 @@
+rfid
+register if havent (assign rfid to you, take patient pic)
+connect rfid to patient (backend)
+give rfid to patient
+check patient in (send to fms)
+refresh admin app to show current patients
